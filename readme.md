@@ -12,7 +12,7 @@ Contact Me at:
 - 🖥️ This Repo contaions a collection of Designed websites WHich with a little modification can be used in production
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I Have mainly used daily `.HTML`,` .CSS`, `JavaScript`
-- ⚡ Below are The Screenshots of The website with accordance to their name:
+- ⚡ Below are The Link of the websites which can be viewed live:
 
 ---
 
