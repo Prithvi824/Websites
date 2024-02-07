@@ -3,7 +3,7 @@
 <p align="center">
 Contact Me at: 
 <a href="https://www.linkedin.com/in/prithvi-srivastava-a974092a6/" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=13930&format=png" alt="Prithvi Srivastava" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://lgithub.com/Prithvi824" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=EGYogqtKuGgD&format=png" alt="Prithvi Srivastava" height="30" width="30" /></a>&nbsp;
+<a href="https://github.com/Prithvi824" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=EGYogqtKuGgD&format=png" alt="Prithvi Srivastava" height="30" width="30" /></a>&nbsp;
 </p>
 <br>
 
